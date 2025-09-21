@@ -57,7 +57,7 @@ Para replicar os resultados, siga os passos abaixo:
 3.  **Instale as dependências:**
     O projeto requer algumas bibliotecas. Você pode instalá-las com o pip:
     ```bash
-    pip install pandas numpy scikit-learn torch lazypredict matplotlib seaborn jupyter
+    pip install requirements.txt
     ```
     *Nota: Pode ser necessário instalar o PyTorch seguindo as instruções específicas do site oficial para a sua configuração de hardware (CPU/GPU): https://pytorch.org/*
 
